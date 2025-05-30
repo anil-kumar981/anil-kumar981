@@ -73,7 +73,7 @@ I'm a Full Stack Developer skilled in .NET backend development and Flutter mobil
 
 3. **Library Management System**  
    A CRUD-based web app using .NET Core MVC and Entity Framework to manage books and borrowers with search, validation, and admin views.  
-   🔗 [View Project](https://github.com/anil-kumar981/Library-Management-System)
+   🔗 [View Project](https://github.com/anilkumar-dct/Library-Management-System)
 
 4. **Flutter E-Commerce App UI**  
    Cross-platform mobile app with product listings, cart layout, and elegant UI/UX using Flutter.  
@@ -84,10 +84,9 @@ I'm a Full Stack Developer skilled in .NET backend development and Flutter mobil
 ## 💼 Work Experience
 
 **Full Stack Developer – DCT Technology Pvt. Ltd.**  
-🗓️ Dec 2024 – May 2025 | 📍 Yamuna Nagar, Haryana
+🗓️ Feb 2025 – Present | 📍 Yamuna Nagar, Haryana
 
 - Built backend logic using ASP.NET Core & MVC  
-- Developed and deployed Flutter apps  
 - Created APIs for business applications  
 - Worked in agile sprints and version control (Git)
 
