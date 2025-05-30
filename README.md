@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Anil Kumar</h2>
-<h4 align="center">A passionate Full Stack .NET & Flutter Developer from India</h4>
+<h4 align="center">A passionate Full Stack .NET Developer</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
