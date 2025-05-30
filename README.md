@@ -1,27 +1,106 @@
-[![MasterHead](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-acc479d/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-kumar981&label=Profile%20views&color=0e75b6&style=flat" alt="anil-kumar981" /> </p>
+# 👨‍💻 Anil Kumar - .NET & Flutter Developer
 
-- 🌱 I’m currently learning **flutter**
+![Profile Banner](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anil-kumar981](https://github.com/anil-kumar981)
+🔧 Full Stack Developer specializing in **ASP.NET Core** backend and **Flutter** mobile development. Skilled in building scalable REST APIs, managing databases using **Entity Framework**, and creating beautiful cross-platform apps with Flutter.
 
-- 📫 How to reach me **yadavanilkumar8113@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Tech Stack
+
+### 🔹 Backend
+- ASP.NET Core MVC
+- Entity Framework Core
+- C#
+- REST APIs
+- SQL Server
+
+### 🔹 Frontend & Mobile
+- Flutter & Dart
+- Bootstrap 5
+- HTML5, CSS3, JavaScript
+
+### 🔹 Tools & Platforms
+- Visual Studio
+- Git & GitHub
+- SQL Server Management Studio
+- Android Studio
+- Postman
+
+---
+
+## 💼 Projects
+
+### 🏨 Hotel Room Management System  
+- Built with ASP.NET Core MVC  
+- Features: Room booking, staff management, admin dashboard  
+🔗 [View on GitHub](https://github.com/anilkumar-dct/Hotel-Room-Management-System)
+
+### 🛒 Flutter E-Commerce App  
+- Cross-platform mobile shopping app  
+- Features: Product listing, cart, user authentication  
+🔗 [View on GitHub](https://github.com/yourusername/flutter-ecommerce)
+
+### 🔐 JWT Auth API  
+- Role-based authentication and authorization using JWT  
+- Developed in .NET Core Web API  
+🔗 [View on GitHub](https://github.com/dev-himanshu-karnwal/angular-dotnet/tree/master/backend)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anil-kumar-yadav-38818426a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-kumar-yadav-38818426a/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yadavanilkumar82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yadavanilkumar82" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anilkumar981/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilkumar981/" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anil-kumar981&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anil-kumar981&show_icons=true&locale=en&layout=compact" alt="anil-kumar981" /></p>
+## 🧠 Skills Snapshot
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true&locale=en" alt="anil-kumar981" /></p>
+- ✅ ASP.NET Core (90%)
+- ✅ C# (88%)
+- ✅ Entity Framework (85%)
+- ✅ Flutter (80%)
+- ✅ Dart (75%)
+- ✅ Bootstrap (85%)
+- ✅ REST APIs, JWT, MVC, SQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981&" alt="anil-kumar981" /></p>
+---
+
+## 👨‍💼 Work Experience
+
+### Full Stack Developer - DCT Technology Pvt. Ltd.
+- Built .NET Core backends for business logic
+- Developed and deployed Flutter mobile applications
+- Designed secure, scalable RESTful APIs
+- Participated in Agile sprint-based workflows
+
+---
+
+## 📬 Contact
+
+- 📧 Email: yadavanilkumar8113@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/anil-kumar-yadav](https://www.linkedin.com/in/anil-kumar-yadav-38818426a)  
+- 💻 GitHub: [github.com/anil-kumar981](https://github.com/anil-kumar981)  
+- 📱 Phone: +91 98171 14961  
+- 📍 Location: Yamuna Nagar, Haryana
+
+---
+
+## 🙌 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/anil-kumar-yadav-38818426a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/yadavanilkumar82"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" /></a>
+  <a href="https://leetcode.com/u/anilkumar981/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+</p>
+
+---
+
+> "Consistency and curiosity are the keys to mastery. Let’s build something impactful together!" 🚀
+
