@@ -1,5 +1,4 @@
 
-
 ![Header](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-acc479d/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)
 
 <p align="center">
@@ -7,7 +6,7 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Anil Kumar</h2>
-<h4 align="center">A passionate Full Stack .NET Developer</h4>
+<h4 align="center">A passionate Full Stack .NET </h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
@@ -68,13 +67,17 @@ I'm a Full Stack Developer skilled in .NET backend development and Flutter mobil
    ASP.NET Core MVC application with features like room booking, staff management, and admin dashboard.  
    🔗 [View Project](https://github.com/anilkumar-dct/Hotel-Room-Management-System)
 
-2. **Flutter E-Commerce App**  
-   Cross-platform mobile app with product listings, cart system, and authentication.  
-   🔗 [View Project](https://github.com/yourusername/flutter-ecommerce)
-
-3. **Auth API with JWT**  
+2. **Auth API with JWT**  
    Secure API for login/registration with role-based access using JWT and Identity.  
    🔗 [View Project](https://github.com/dev-himanshu-karnwal/angular-dotnet/tree/master/backend)
+
+3. **Library Management System**  
+   A CRUD-based web app using .NET Core MVC and Entity Framework to manage books and borrowers with search, validation, and admin views.  
+   🔗 [View Project](https://github.com/anil-kumar981/Library-Management-System)
+
+4. **Flutter E-Commerce App UI**  
+   Cross-platform mobile app with product listings, cart layout, and elegant UI/UX using Flutter.  
+   🔗 [View Project](https://github.com/anil-kumar981/shopping_app_ui/tree/new-branch-shoppinp-app-ui)
 
 ---
 
@@ -83,9 +86,9 @@ I'm a Full Stack Developer skilled in .NET backend development and Flutter mobil
 **Full Stack Developer – DCT Technology Pvt. Ltd.**  
 🗓️ Dec 2024 – May 2025 | 📍 Yamuna Nagar, Haryana
 
-- Built backend logic using ASP.NET Core & MVC
-- Developed and deployed Flutter apps
-- Created APIs for business applications
+- Built backend logic using ASP.NET Core & MVC  
+- Developed and deployed Flutter apps  
+- Created APIs for business applications  
 - Worked in agile sprints and version control (Git)
 
 ---
