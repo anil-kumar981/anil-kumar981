@@ -12,7 +12,7 @@
 ---
 
 <!-- Coding GIF -->
-<p align="right">
+<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 </p>
 
@@ -71,10 +71,6 @@ I don’t just write APIs — I design systems that handle:
 ## 🚀 Projects
 
 ### 🔐 ReefSecure — Phishing Simulation Platform
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400"/>
-</p>
 
 **Tech:** Flask, PostgreSQL, Celery, Redis, Docker  
 
