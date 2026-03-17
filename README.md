@@ -1,59 +1,66 @@
-<h1 align="center">Anil Kumar</h1>
-<h3 align="center">Python Backend Engineer | Scalable APIs | Async Systems</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Anil+Kumar;Python+Backend+Engineer;Building+Scalable+APIs+%26+Async+Systems" />
+</p>
+
+<h3 align="center">⚡ Python Backend Engineer | Scalable APIs | Async Systems</h3>
 
 ---
+
+<!-- Coding GIF -->
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
 
 ## 🧠 Who I Am
 
-Backend Engineer specializing in **Python-based systems** with a focus on building scalable, reliable, and production-ready applications.
+Backend Engineer focused on building **production-ready systems** using Python.
 
-I work on problems involving:
-- asynchronous processing
-- API performance and reliability
-- system design and data flow
-- real-world backend constraints
+I don’t just write APIs — I design systems that handle:
+- async workloads  
+- real-world failures  
+- performance bottlenecks  
 
 ---
 
-## ⚙️ What I Do
+## ⚙️ Engineering Approach
 
-### 🔹 Backend Development (Python)
-- Build RESTful APIs using **FastAPI & Flask**
-- Design clean architecture with separation of concerns
-- Implement secure authentication (JWT, RBAC)
+### 🔹 API Design
+- RESTful architecture with clean separation  
+- Structured responses & centralized error handling  
+- Secure authentication (JWT, RBAC)
 
-### 🔹 Asynchronous Systems
-- Use **Celery + Redis** for background job processing
-- Handle retries, failures, and non-blocking workflows
-- Design systems that scale beyond single-request execution
+### 🔹 Async Processing
+- Celery + Redis for background jobs  
+- Non-blocking system design  
+- Retry + failure handling  
 
-### 🔹 Database Engineering
-- PostgreSQL for scalable systems
-- SQLite for local/offline-first applications
-- MongoDB where flexibility is required
+### 🔹 Database Strategy
+- PostgreSQL for scalable systems  
+- SQLite for offline-first apps  
+- Schema design based on real use cases  
 
-### 🔹 System Design Thinking
-- Optimize for performance, not just functionality
-- Make trade-offs based on real constraints
-- Solve concurrency and scaling problems early
+### 🔹 System Thinking
+- Solve concurrency issues early  
+- Design for scale, not patch later  
+- Make trade-offs based on constraints  
 
-### 🔹 DevOps & Deployment
-- Dockerized multi-service applications
-- CI/CD with GitHub Actions
-- Cloud deployments (Render)
+### 🔹 DevOps
+- Dockerized applications  
+- CI/CD using GitHub Actions  
+- Cloud deployment (Render)  
 
 ---
 
 ## 💼 Experience
 
 **Backend Developer — DCT Technology Pvt. Ltd.**  
-📍 Yamuna Nagar, Haryana | 🗓️ Feb 2025 – Present  
+📍 Yamuna Nagar | 🗓️ Feb 2025 – Present  
 
-- Built backend services using **FastAPI and Flask**
-- Designed REST APIs and handled real production issues  
-- Implemented async processing using Celery + Redis  
-- Containerized and deployed services using Docker  
-- Optimized database queries and system performance  
+- Built APIs using FastAPI & Flask  
+- Designed async workflows using Celery + Redis  
+- Containerized services using Docker  
+- Solved real production performance issues  
 
 ---
 
@@ -61,86 +68,77 @@ I work on problems involving:
 
 ### 🔐 ReefSecure — Phishing Simulation Platform
 
-**Tech:** Python (Flask), PostgreSQL, Celery, Redis, Docker  
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400"/>
+</p>
 
-**What I Built:**
-- API system to simulate phishing attacks and track user behavior  
-- Async processing pipeline for email delivery and event tracking  
+**Tech:** Flask, PostgreSQL, Celery, Redis, Docker  
 
-**Engineering Focus:**
-- Prevented request blocking using Celery workers  
-- Designed system to handle large-scale interaction tracking  
-
----
-
-### 📈 RangersFx — Trading Backend System
-
-**Tech:** NestJS (TypeScript), Supabase  
-
-**What I Did:**
-- Built REST APIs for trading workflows  
-- Implemented authentication and structured error handling  
-
-**Engineering Focus:**
-- Standardized API responses using Factory Pattern  
-- Reduced duplication and improved maintainability  
+- Built system to simulate phishing attacks  
+- Designed async pipeline for email + tracking  
+- Prevented API blocking using Celery workers  
 
 ---
 
-### 🖥️ Kameti Management System (Desktop Backend)
+### 📈 RangersFx — Trading Backend
 
-**Tech:** ElectronJS, SQLite, Prisma, Python ecosystem integration  
+**Tech:** NestJS, TypeScript  
 
-**What I Built:**
-- Backend for offline-first desktop financial system  
-- Local database + cloud backup integration  
-
-**Engineering Focus:**
-- Migrated SQLite → PostgreSQL due to concurrency limits  
-- Ensured data reliability and system stability  
+- Built secure REST APIs  
+- Implemented structured error handling  
+- Used Factory Pattern for consistent responses  
 
 ---
 
-## 🛠️ Core Stack
+### 🖥️ Kameti Management System
 
-**Primary:**  
-Python (FastAPI, Flask)
+**Tech:** ElectronJS, SQLite, Prisma  
 
-**Async & Workers:**  
-Celery, Redis  
-
-**Databases:**  
-PostgreSQL, MongoDB, SQLite  
-
-**DevOps:**  
-Docker, Docker Compose, GitHub Actions  
-
-**Other:**  
-NestJS (secondary), Angular (integration level)
+- Built backend for offline-first desktop system  
+- Implemented cloud backup (Google Drive)  
+- Migrated SQLite → PostgreSQL for concurrency  
 
 ---
 
-## 🎯 What Makes Me Different
+## 🛠️ Tech Stack
 
-- I focus on **how systems behave under load**, not just functionality  
-- I’ve worked with **async processing in real applications**  
-- I understand **backend trade-offs and failure scenarios**  
-- I build systems that are **ready for production, not just demos**  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,docker,mongodb,git,github,linux" />
+
+</p>
 
 ---
 
-## 📫 Contact
+## 🎯 What Sets Me Apart
 
-- 📧 Email: yadavanilkumar8113@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/anil-kumar-yadav-38818426a/  
-- 💻 GitHub: https://github.com/anil-kumar981  
+- I build systems, not just endpoints  
+- I understand async processing deeply  
+- I solve real backend problems (not tutorials)  
+- I focus on performance & reliability  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:yadavanilkumar8113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anil-kumar-yadav-38818426a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anil-kumar981">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981&theme=tokyonight" />
 </p>
