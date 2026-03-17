@@ -1,134 +1,146 @@
-
-![Header](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-acc479d/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anil-kumar981&label=Profile%20views&color=0e75b6&style=flat" alt="anil-kumar981" />
-</p>
-
-<h2 align="center">Hi 👋, I'm Anil Kumar</h2>
-<h4 align="center">A passionate Full Stack .NET Developer</h4>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
+<h1 align="center">Anil Kumar</h1>
+<h3 align="center">Python Backend Engineer | Scalable APIs | Async Systems</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who I Am
 
-I'm a Full Stack Developer skilled in .NET backend development and Flutter mobile applications. I build RESTful APIs, manage SQL databases, and create responsive cross-platform apps.
+Backend Engineer specializing in **Python-based systems** with a focus on building scalable, reliable, and production-ready applications.
 
-- 🌱 I’m currently learning advanced **Flutter** and **Clean Architecture**
-- 📫 How to reach me: **yadavanilkumar8113@gmail.com**
-- 👨‍💻 All my projects are at: [GitHub Portfolio](https://github.com/anil-kumar981)
-
----
-
-## 🧠 Programming Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" title="Dart" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-</p>
+I work on problems involving:
+- asynchronous processing
+- API performance and reliability
+- system design and data flow
+- real-world backend constraints
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ What I Do
 
-### Backend Technologies
-- ASP.NET Core MVC
-- Entity Framework Core
-- RESTful APIs
-- C#
-- SQL Server
+### 🔹 Backend Development (Python)
+- Build RESTful APIs using **FastAPI & Flask**
+- Design clean architecture with separation of concerns
+- Implement secure authentication (JWT, RBAC)
 
-### Frontend & Mobile
-- Bootstrap 5
-- Flutter & Dart
-- HTML5, CSS3, JavaScript
+### 🔹 Asynchronous Systems
+- Use **Celery + Redis** for background job processing
+- Handle retries, failures, and non-blocking workflows
+- Design systems that scale beyond single-request execution
 
-### Tools & Platforms
-- Visual Studio
-- Android Studio
-- Git & GitHub
-- MySQL & SQL Server
-- Postman
+### 🔹 Database Engineering
+- PostgreSQL for scalable systems
+- SQLite for local/offline-first applications
+- MongoDB where flexibility is required
 
----
+### 🔹 System Design Thinking
+- Optimize for performance, not just functionality
+- Make trade-offs based on real constraints
+- Solve concurrency and scaling problems early
 
-## 📂 Featured Projects
-
-1. **Hotel Room Management System**  
-   ASP.NET Core MVC application with features like room booking, staff management, and admin dashboard.  
-   🔗 [View Project](https://github.com/anilkumar-dct/Hotel-Room-Management-System)
-
-2. **Auth API with JWT**  
-   Secure API for login/registration with role-based access using JWT and Identity.  
-   🔗 [View Project](https://github.com/dev-himanshu-karnwal/angular-dotnet/tree/master/backend)
-
-3. **Library Management System**  
-   A CRUD-based web app using .NET Core MVC and Entity Framework to manage books and borrowers with search, validation, and admin views.  
-   🔗 [View Project](https://github.com/anilkumar-dct/Library-Management-System)
-
-4. **Flutter E-Commerce App UI**  
-   Cross-platform mobile app with product listings, cart layout, and elegant UI/UX using Flutter.  
-   🔗 [View Project](https://github.com/anil-kumar981/shopping_app_ui/tree/new-branch-shoppinp-app-ui)
+### 🔹 DevOps & Deployment
+- Dockerized multi-service applications
+- CI/CD with GitHub Actions
+- Cloud deployments (Render)
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-**Full Stack Developer – DCT Technology Pvt. Ltd.**  
-🗓️ Feb 2025 – Present | 📍 Yamuna Nagar, Haryana
+**Backend Developer — DCT Technology Pvt. Ltd.**  
+📍 Yamuna Nagar, Haryana | 🗓️ Feb 2025 – Present  
 
-- Built backend logic using ASP.NET Core & MVC  
-- Created APIs for business applications  
-- Worked in agile sprints and version control (Git)
-
----
-
-## 🎯 Skills Overview
-
-| Area                | Skill Level |
-|---------------------|-------------|
-| .NET Core / MVC     | 90%         |
-| Entity Framework    | 85%         |
-| C#                  | 88%         |
-| Flutter             | 80%         |
-| Dart                | 75%         |
-| Bootstrap           | 85%         |
-| JavaScript          | 70%         |
-| REST APIs           | 85%         |
-| JWT Auth            | 80%         |
-| MVC Architecture    | 75%         |
-| SQL Server          | 85%         |
-| Visual Studio       | 90%         |
-| Git                 | 80%         |
+- Built backend services using **FastAPI and Flask**
+- Designed REST APIs and handled real production issues  
+- Implemented async processing using Celery + Redis  
+- Containerized and deployed services using Docker  
+- Optimized database queries and system performance  
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anil-kumar-yadav-38818426a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-  <a href="https://www.hackerrank.com/profile/yadavanilkumar82" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" /></a>
-  <a href="https://leetcode.com/u/anilkumar981/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
-</p>
+### 🔐 ReefSecure — Phishing Simulation Platform
+
+**Tech:** Python (Flask), PostgreSQL, Celery, Redis, Docker  
+
+**What I Built:**
+- API system to simulate phishing attacks and track user behavior  
+- Async processing pipeline for email delivery and event tracking  
+
+**Engineering Focus:**
+- Prevented request blocking using Celery workers  
+- Designed system to handle large-scale interaction tracking  
+
+---
+
+### 📈 RangersFx — Trading Backend System
+
+**Tech:** NestJS (TypeScript), Supabase  
+
+**What I Did:**
+- Built REST APIs for trading workflows  
+- Implemented authentication and structured error handling  
+
+**Engineering Focus:**
+- Standardized API responses using Factory Pattern  
+- Reduced duplication and improved maintainability  
+
+---
+
+### 🖥️ Kameti Management System (Desktop Backend)
+
+**Tech:** ElectronJS, SQLite, Prisma, Python ecosystem integration  
+
+**What I Built:**
+- Backend for offline-first desktop financial system  
+- Local database + cloud backup integration  
+
+**Engineering Focus:**
+- Migrated SQLite → PostgreSQL due to concurrency limits  
+- Ensured data reliability and system stability  
+
+---
+
+## 🛠️ Core Stack
+
+**Primary:**  
+Python (FastAPI, Flask)
+
+**Async & Workers:**  
+Celery, Redis  
+
+**Databases:**  
+PostgreSQL, MongoDB, SQLite  
+
+**DevOps:**  
+Docker, Docker Compose, GitHub Actions  
+
+**Other:**  
+NestJS (secondary), Angular (integration level)
+
+---
+
+## 🎯 What Makes Me Different
+
+- I focus on **how systems behave under load**, not just functionality  
+- I’ve worked with **async processing in real applications**  
+- I understand **backend trade-offs and failure scenarios**  
+- I build systems that are **ready for production, not just demos**  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: yadavanilkumar8113@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/anil-kumar-yadav-38818426a/  
+- 💻 GitHub: https://github.com/anil-kumar981  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anil-kumar981&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anil-kumar981&show_icons=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar981" />
 </p>
