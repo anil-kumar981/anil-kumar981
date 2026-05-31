@@ -151,13 +151,15 @@ Availability  →   15 Days Notice Period
 ---
 
 ### RangersFx — Financial Trading Backend
-> Secure, modular REST API infrastructure for a financial trading platform.
+> Secure and scalable REST API infrastructure for a financial trading platform.
 
-`Flask` `SQLAlchemy` `RBAC` `Factory Pattern`
+`Django` `Django REST Framework` `PostgreSQL` `JWT` `RBAC` `Redis`
 
-- Implemented **modular business logic** using Factory Pattern for consistent API responses
-- Built structured error handling and secure authentication flows
-- Designed clean separation of concerns across service, model, and controller layers
+- Developed secure trading and account management APIs using Django REST Framework (DRF).
+- Implemented JWT-based authentication and Role-Based Access Control (RBAC) to protect trading operations and user resources.
+- Built centralized error handling, request validation, and standardized API response structures for consistent client communication.
+- Designed scalable backend modules with clear separation between models, business logic, and API layers.
+- Integrated Redis caching and optimized database queries to improve application performance and response times.
 
 🔗 [rangersfx.com](https://www.rangersfx.com/)
 
