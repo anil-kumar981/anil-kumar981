@@ -50,7 +50,7 @@ Core Focus    →   Scalable API Design · Async Architecture · PostgreSQL · D
 Current Role  →   Python Backend Engineer @ DCT Technology Pvt. Ltd.
 Experience    →   1 Year 5 Months
 Location      →   Yamuna Nagar, Haryana, India
-Availability  →   15 Days Notice Period
+Availability  →   immediate joiner
 ```
 
 ---
